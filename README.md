@@ -6,8 +6,8 @@
 <br>
 
 <b><details><summary>💡 关于</summary></b>
-📚 本仓库是......
-
+📚 本仓库是关于Markdown的学习资料！
+<!--
 💡 侧边目录支持方式：[📚 Docsify 文档](https://interview.huihut.com)、[Github + TOC 导航](https://github.com/jawil/GayHub)（[TOC预览.png](https://raw.githubusercontent.com/huihut/interview/master/images/TOC预览.png)）
 
 📄 保存为 PDF 方式：使用 Chrome 浏览器打开 <a href="https://interview.huihut.com">📚 Docsify 文档</a> 页面，缩起左侧目录-右键 - 打印 - 选择目标打印机是另存为PDF - 保存（[打印预览.png](https://raw.githubusercontent.com/huihut/interview/master/images/打印预览.png)）
@@ -16,7 +16,7 @@
 
 </details>
 
-🍭 广告与打赏：个人茶余饭后独立开发的一个虚拟形象扮演软件 **《[Avalive](https://store.steampowered.com/app/1137770/Avalive/)》**。打赏请点 [支持赞助](#-支持赞助)。
+🍭 广告与打赏：个人茶余饭后独立开发的一个虚拟形象扮演软件 **《[Avalive](https://store.steampowered.com/app/1137770/Avalive/)》**。打赏请点 [支持赞助](#-支持赞助)。-->
 
 <!-- ## 📑 目录 -->
 
